@@ -1,6 +1,6 @@
 import json
 
-class ToDoList:
+1class ToDoList:
     def __init__(self):
         self.tasks = []
 
